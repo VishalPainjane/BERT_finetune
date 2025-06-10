@@ -1,4 +1,7 @@
 python-dotenv
 huggingface_hub
-transformers
+# transformers
 datasets
+torch
+transformers[torch]
+accelerate>=0.26.0
